@@ -10,6 +10,6 @@ and in line 154 change u.Name==name to u.Email==email
 After that all functions will work.
 If you give me permission, I will do it myself.
 
-And I hope that because of this pressure mistake I will be disqualified.
+And I hope that because of this pressure mistake I will be not disqualified.
 
 Thanks in advance Amit Ara
